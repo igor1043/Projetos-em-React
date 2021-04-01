@@ -1,4 +1,4 @@
-# Projetos-em-React
+# Projetos em React
 
 Repositório contendo minhas produções em React.js e React Native
 
